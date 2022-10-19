@@ -35,6 +35,6 @@ header, footer{
 }
 .flex-container {
     background-color: var(--secondaryColor);
-    grid-column: 1/ 4;
-    border: 1rem dotted var(--greenColor);
+    /* grid-column: 1/ 4;
+    border: 1rem dotted var(--greenColor); */
 }
